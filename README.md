@@ -1,16 +1,22 @@
-## Hi there 👋
+✨✨ ¡Hola! Soy Malaquias Félix Villanueva  
 
-<!--
-**Malaquias5/Malaquias5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Soy un "estudiante de Computación e Informática en Cibertec "(Perú), apasionado por la programación y el desarrollo de software.  
 
-Here are some ideas to get you started:
+ He participado en diversos **proyectos académicos** donde he podido aplicar mis conocimientos en **Java, SQL Server, HTML, CSS y GitHub**, fortaleciendo mis habilidades técnicas y mi capacidad para trabajar en equipo.  
+ Actualmente me encuentro "buscando realizar mis prácticas preprofesionales", con el objetivo de seguir aprendiendo, adquirir experiencia real y contribuir con entusiasmo en proyectos de desarrollo.  
+ Me motiva aprender cada día, asumir nuevos retos y mejorar continuamente para convertirme en un "desarrollador de software competente y creativo".  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Lenguajes de programación: Java, TypeScript  
+-  Frameworks: Spring Boot, Angular  
+-  Lenguajes de marcado y estilos: HTML, CSS  
+-  Bases de datos: SQL Server, MySQL, PostgreSQL  
+-  Herramientas: Git, GitHub, Eclipse,IntelliJ IDEA, Visual Studio Code
+---
+
+Contacto: 
+malaquiasvillanueva@gmail.com  
+🔗 [Mi GitHub](https://github.com/Malaquias5)
+
+---
+
+⭐ "Cada línea de código es una oportunidad para aprender algo nuevo.”
